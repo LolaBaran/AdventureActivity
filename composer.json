@@ -1,0 +1,18 @@
+{
+    "name": "lolabaran/activites",
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/",
+            "App\\": "app/",
+            "Bdd\\": "bdd/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lola"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
